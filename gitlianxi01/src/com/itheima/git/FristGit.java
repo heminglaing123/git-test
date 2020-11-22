@@ -11,5 +11,6 @@ public class FristGit {
     public void test(){
         int i=12;
         i+=1;
+        System.out.println(i);
     }
 }
