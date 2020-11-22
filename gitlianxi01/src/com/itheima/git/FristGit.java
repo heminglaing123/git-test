@@ -8,4 +8,8 @@ public class FristGit {
         System.out.println("hemllo git3");
         System.out.println("hemllo git4");
     }
+    public void test(){
+        int i=12;
+        i+=1;
+    }
 }
